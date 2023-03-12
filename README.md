@@ -1,2 +1,3 @@
-# tekn-cloud-computing
-Study
+# SCM: Git dan GitHub
+
+instalasi
