@@ -1,5 +1,5 @@
 # tekn-cloud-computing
 # SCM: Git dan GitHub
 
-205610010
-Jerico Pindo Ismantoro
+<h2>205610010<h2>
+<h2>Jerico Pindo Ismantoro<h2>
