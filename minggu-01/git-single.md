@@ -1,4 +1,4 @@
-#1
-ghgh
+#instalasi git
 
-![Screenshot 2023-03-11 235244](https://user-images.githubusercontent.com/93830215/224567856-0ed0a3a4-d529-4a7b-bd50-bccb2f4354e6.png)
+
+![https://user-images.githubusercontent.com/93830215/224567856-0ed0a3a4-d529-4a7b-bd50-bccb2f4354e6.png](https://github.com/T41K41/tekn-cloud/blob/01e8403512a286e43c3911be3af6888a33e00ee6/minggu-01/gambar/instalasi/install-01.png)
