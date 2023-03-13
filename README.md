@@ -1,4 +1,5 @@
 # tekn-cloud-computing
 # SCM: Git dan GitHub
 
-Gambar
+205610010
+Jerico Pindo Ismantoro
